@@ -36,5 +36,10 @@ Voici un mot ***gras*** et en ***italique***
   [liens vers google.fr](https://www.google.com/?hl=fr)
 
   ***
-  
+  **Tableaux :**
+
+  | Colonne A | Colonne B | Colonne C |
+|-----------|:---------:|----------:|
+| gauche    | centré    | droite    |
+| ligne 2   | données   | 42        |
 
