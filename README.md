@@ -30,6 +30,7 @@ Voici un mot ***gras*** et en ***italique***
   **image :**
   
   ![logo markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/langfr-250px-Markdown-mark.svg.png)
+  
 **Liens**
 
   [liens vers google.fr](https://www.google.com/?hl=fr)
