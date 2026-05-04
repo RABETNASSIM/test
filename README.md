@@ -21,3 +21,8 @@ Voici un mot ***gras*** et en ***italique***
     * item 1.1.1
 * item 2
 * Item 3
+
+  **image :**
+  ![logo markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/langfr-250px-Markdown-mark.svg.png)
+
+  
