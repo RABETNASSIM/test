@@ -4,7 +4,12 @@
 #### titre niveau 4
 ##### titre niveau 5
 ###### titre niveau 6
+
+***
+
 Voici un mot en **gras** et *italique*
+
+***
 
 Voici un mot ***gras*** et en ***italique*** 
 > ceci est un bloc de citation
@@ -25,6 +30,10 @@ Voici un mot ***gras*** et en ***italique***
   **image :**
   
   ![logo markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/langfr-250px-Markdown-mark.svg.png)
+**Liens**
 
+  [liens vers google.fr](https://www.google.com/?hl=fr)
+
+  ***
   
 
