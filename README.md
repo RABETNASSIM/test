@@ -16,6 +16,8 @@ Voici un mot ***gras*** et en ***italique***
 2. Item 2
 3. Item 3
 
-* intem 1
+* item 1
+  * item 1.1
+    * item 1.1.1
 * item 2
 * Item 3
