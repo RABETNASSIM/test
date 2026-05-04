@@ -12,6 +12,9 @@ Voici un mot en **gras** et *italique*
 ***
 
 Voici un mot ***gras*** et en ***italique*** 
+
+Voici un bout de code : `<p> paragraphe</p>`
+
 > ceci est un bloc de citation
 > 
 > sur plusieurs
