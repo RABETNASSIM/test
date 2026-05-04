@@ -12,3 +12,6 @@ Voici un mot ***gras*** et en ***italique***
 > sur plusieurs
 > 
 > lignes.
+1. item 1
+2. Item 2
+3. Item 3
