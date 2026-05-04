@@ -8,5 +8,7 @@ Voici un mot en **gras** et *italique*
 
 Voici un mot ***gras*** et en ***italique*** 
 > ceci est un bloc de citation
+> 
 > sur plusieurs
+> 
 > lignes.
